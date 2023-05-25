@@ -1,0 +1,75 @@
+.color-purple {
+  color: rgb(112, 0, 139);
+}
+.color-white {
+  color: rgb(255, 255, 255);
+}
+.color-pink {
+  color: #fcdbff;
+}
+
+.bg-purple {
+  background-color: rgb(112, 0, 139);
+}
+.bg-white {
+  background-color: rgb(255, 255, 255);
+}
+.bg-pink {
+  background-color: #fcdbff;
+}
+
+.b1 {
+  border: 3px solid white;
+  border-radius: 10px 0 10px 0;
+  padding: 10px;
+}
+
+.b2 {
+  border: 3px solid white;
+  border-radius: 60px 0 60px 0;
+  padding: 10px;
+}
+
+.b3 {
+  border: 3px solid rgb(112, 0, 139);
+  color: rgb(112, 0, 139);
+  border-radius: 60px 0 60px 0;
+  padding: 10px;
+}
+
+.b4 {
+  border: 3px solid rgb(112, 0, 139);
+  color: rgb(255, 255, 255);
+  border-radius: 10px 0 10px 0;
+  padding: 10px;
+  background-color: rgb(112, 0, 139);
+}
+
+.b5 {
+  border: 2px solid rgb(112, 0, 139);
+  color: rgb(112, 0, 139);
+  border-radius: 30px 0 30px 0;
+  padding: 10px;
+}
+
+.container1 {
+  padding: 0 35%;
+}
+
+img {
+  width: 35vh;
+  height: 25vh;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.order {
+  display: inline-block;
+}
+
+.head {
+  padding-top: 3%;
+}/*# sourceMappingURL=Hw_16.css.map */
